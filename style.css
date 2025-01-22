@@ -87,7 +87,11 @@
     height: 3px;
     background-color: black;
   }
-  
+  marquee {
+    margin-top: 300px;
+    font-size: 20px;
+    color: black;
+  }
   .main-1 {
     height: 80vh;
     display: flex;
